@@ -1,7 +1,7 @@
 {
   "name": "2048bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Playwright-powered bot that automatically plays the 2048 game using a greedy heuristic strategy.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
